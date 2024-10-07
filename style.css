@@ -46,6 +46,7 @@ h1 {
   width: 24px;
   height: 24px;
   filter: invert(100%);
+  color: #34237e;
 }
 
 #changingText {
