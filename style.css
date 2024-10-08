@@ -26,7 +26,7 @@ h1 {
 }
 
 .highlight {
-  color: #4640b6;
+  color: #0373be;
 }
 
 .changingText {
@@ -42,11 +42,10 @@ h1 {
   margin-top: 50px;
 }
 
-.socials img {
-  width: 24px;
-  height: 24px;
-  filter: invert(100%);
-  background-color: #4640b6;
+.socials i {
+  width: 50px;
+  height: 50px;
+  color: #87a0cf
 }
 
 #changingText {
