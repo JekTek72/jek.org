@@ -2,8 +2,10 @@ const changingText = document.getElementById('changingText');
 const paragraphs = [
     "Full-Stack Web Developer",
     "Experienced with React, Typescript and NextJS",
-    "A Spanish-Chilean Developer",
-    "A guy who does random stuff for a living"
+    "🇪🇸/🇨🇱",
+    "+3 Years in the Web Development field",
+    "Merry Christmas :D",
+    "A guy who does random stuff for a living",
 ];
 
 let index = 0;
